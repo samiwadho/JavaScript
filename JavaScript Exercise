@@ -213,3 +213,11 @@ Answer: var age =18;
 Q9 In a single statement declare a variable and assign to it the sum of 2 other variables.
    (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
 Answer: var last_name="Abdul"+"Sami"
+
+Q10 Rewrite this statement so the variable can be used in a math operation.
+var num = "9";
+Answer: var num = 9;
+
+Q11 Assign the sum of 2 numbers to a variable, which hasn't been declared beforehand. 
+    (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
+Answer: var age = 12 + 6;

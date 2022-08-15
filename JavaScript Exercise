@@ -250,3 +250,8 @@ Q17 Time goal: 30 seconds. In one statement declare a variable. In a second stat
     (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
 Answer: var sum
         sum =9+9;
+
+Q18 Time goal: 35 seconds. In the first statement declare a variable and assign it a number.
+    In the second statement, change the value of the variable by adding it together with a number.
+Answer: var sum =9;
+        var total= sum +9;

@@ -245,3 +245,8 @@ Answer: var num = 9;
 Q16 Time goal: 30 seconds. Assign the sum of 2 numbers to a variable, which hasn't been declared beforehand.
      (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
 Answer: var sum =12+9;
+
+Q17 Time goal: 30 seconds. In one statement declare a variable. In a second statement assign it the sum of 2 numbers. 
+    (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
+Answer: var sum
+        sum =9+9;

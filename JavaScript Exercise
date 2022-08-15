@@ -262,3 +262,12 @@ Q19 Live coding exercise: Declare a variable and assign it a number.
     it from the screen showing the correct code, it may not work.
 Answer:  var sum = 15;
          alert(sum);
+
+Q20 Live coding exercise:
+Declare a variable and assign it a number.
+Double the variable's value by adding the variable to itself.
+Display the variable's value in an alert, specifying the variable, not the number, as the message.
+Type out the code. If you copy and paste it from the screen showing the correct code, it may not work.
+Answer: var sum =12
+        var total =sum +12
+        alert(total);

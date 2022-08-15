@@ -201,3 +201,7 @@ Answer: var nicebigNumber =100000;
 Q6 Click in the box and type the next character. I'll autocomplete. Don't type spaces.
    In a single statement, declare the variable numberAsString and assign the number 3 to it as a string.
 Answer: var numberAsString = "3"
+
+Q7 Fail-safe coding. If you type the wrong character, I'll cancel the keystroke. Type spaces.
+Assign to the variable caseQty, which has already been declared, the value 144.
+Answer:  caseQty = 144 ;

@@ -49,6 +49,7 @@ Q13 Time goal: 10 seconds. The code displays a box with a message in it. Fill in
 alert("You won!____
 Answer: ");
 
+
 Q14 Time goal: 20 seconds. Code an alert that displays the message "Hi"
 Answer:alert("Hi");
 
@@ -221,3 +222,14 @@ Answer: var num = 9;
 Q11 Assign the sum of 2 numbers to a variable, which hasn't been declared beforehand. 
     (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
 Answer: var age = 12 + 6;
+
+Q12 In one statement declare a variable. In a second statement assign it the sum of 2 numbers. 
+   (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
+Answer: var sum  
+        sum = 12+6
+  
+Q13  Time goal: 20 seconds. (The timer starts when you click in the answer field.)
+    In a single statement declare a variable and assign a number to it. 
+    You've learned only two rules for naming variables so far—no quotes and no initial number—so they're the only ones I'll hold you to. 
+    (The timer starts when you click in the answer field.)
+Answer: var sum =12

@@ -193,3 +193,11 @@ var merchTotal = 100;
 var shippingCharge = 10;
 var orderTotal = merchTotal + shippingCharge;
 Answer: 110
+
+Q5 Drag-and-drop. Holding down the left mouse button, 
+    drag the pieces of code onto the screen to form a statement that declares a variable and assigns a value to it.
+Answer: var nicebigNumber =100000;
+
+Q6 Click in the box and type the next character. I'll autocomplete. Don't type spaces.
+   In a single statement, declare the variable numberAsString and assign the number 3 to it as a string.
+Answer: var numberAsString = "3"

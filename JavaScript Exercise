@@ -255,3 +255,10 @@ Q18 Time goal: 35 seconds. In the first statement declare a variable and assign 
     In the second statement, change the value of the variable by adding it together with a number.
 Answer: var sum =9;
         var total= sum +9;
+
+Q19 Live coding exercise: Declare a variable and assign it a number.
+    Then code an alert, specifying the variable, not the number, as the message.
+    Click the Run It button to run your code live. Type out the code. If you copy and paste 
+    it from the screen showing the correct code, it may not work.
+Answer:  var sum = 15;
+         alert(sum);

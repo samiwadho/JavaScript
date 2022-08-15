@@ -170,3 +170,15 @@ alert("name");
 Q20 Live coding exercise: Declare a variable of your choice and assign it a string that's exactly the same as the variable name, but enclosed in quotation marks so JavaScript recognizes it as a string. Then code an alert, specifying the variable, not the string, as the message. Click the Run It button to run your code live. Type out the code, don't copy and paste it. If you copy and paste it from the screen showing the correct code, it may not work.
 Answer:var school="SSC";
 alert("school");
+
+
+
+
+    
+                        Smarter way to learn JavaScript exercise lec 3 Variables for Numbers
+
+Q1 You can assign a string to a variable. You can also assign a ______.
+Answer: number
+
+Q2 If a number is enclosed in quotes, it's a ______.
+Answer: string

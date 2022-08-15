@@ -241,3 +241,7 @@ Answer: var first_name =sami+wadho
 Q15 Time goal: 20 seconds. Rewrite this statement so the variable can be used in a math operation.
 var num = "9";
 Answer: var num = 9;
+
+Q16 Time goal: 30 seconds. Assign the sum of 2 numbers to a variable, which hasn't been declared beforehand.
+     (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
+Answer: var sum =12+9;

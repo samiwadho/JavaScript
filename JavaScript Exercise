@@ -205,3 +205,11 @@ Answer: var numberAsString = "3"
 Q7 Fail-safe coding. If you type the wrong character, I'll cancel the keystroke. Type spaces.
 Assign to the variable caseQty, which has already been declared, the value 144.
 Answer:  caseQty = 144 ;
+
+Q8 In a single statement declare a variable and assign a number to it. 
+(You've learned only two rules for naming variables so far—no quotes and no initial number—so they're the only ones I'll hold you to.)
+Answer: var age =18;
+
+Q9 In a single statement declare a variable and assign to it the sum of 2 other variables.
+   (You've learned only two rules for naming variables so far, so they're the only ones I'll hold you to.)
+Answer: var last_name="Abdul"+"Sami"

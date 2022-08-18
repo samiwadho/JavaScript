@@ -1,5 +1,5 @@
 
-    Smarter way to learn JavaScript exercise lec 2 Variables for Numbers
+    Smarter way to learn JavaScript exercise lec 2 Variables for String
 
     Q1 In the following code, "Mark" is a string. What is name (answer with 1 word)?
     var name = "Mark";

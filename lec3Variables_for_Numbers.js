@@ -49,3 +49,11 @@ console.log(f)
 
 f=null;
 console.log(f)
+
+//a +=5     OR     a  =a+5
+//a -=5     OR  a  =a-5
+//a  *=5    OR  a  =a*5
+//a /=5     OR  a  =a/5
+//a %=5     OR  a  =a%5
+//a **=5    OR  a  =a ** 5
+

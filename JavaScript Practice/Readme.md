@@ -7,4 +7,4 @@
 This is the JavaScript Practice Folder which contain the Practice and problem solve work Course of  BBC Batch 37  Quater 1
 
 ## Alert
--**[1 Alert(https://github.com/samiwadho/JavaScript/blob/main/JavaScript%20Practice/Lec%201%20Alert.html)**
+-**[1 Alert](https://github.com/samiwadho/JavaScript/blob/main/JavaScript%20Practice/Lec%201%20Alert.html)**

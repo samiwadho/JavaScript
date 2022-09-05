@@ -1,7 +1,7 @@
 # JavaScript Quarter 1
 
 [![Discord](https://img.shields.io/discord/987926559480512542?label=discord)](https://discord.gg/R2g75R52GX)
-[![GitHub last commit](https://img.shields.io/github/last-commit/https://github.com/samiwadho/JavaScript?color=%23f54242)
+[![GitHub last commit](https://img.shields.io/github/last-commit/samiwadho/JavaScript?color=%23f54242)
 ](https://github.com/samiwadho/JavaScript)
 
 ## About
